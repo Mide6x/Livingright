@@ -1,8 +1,6 @@
 # Create a Devotional System with PHP and MySQL
 Create a  Devotional System with PHP and MySQL
 
-
- Systen Using PHP and MySQL
 Installation Steps(Configuration)
 1. Download and Unzip the file on your local system.
 2. Put this file inside xampp/htdocs/ .
